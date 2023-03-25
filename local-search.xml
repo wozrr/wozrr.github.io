@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>发布测试</title>
+    <link href="/test.html"/>
+    <url>/test.html</url>
+    
+    <content type="html"><![CDATA[<p>测试测试。<br>呜呼呜呼。<br>芜湖。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>测试</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>芜湖</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/03/24/hello-world/"/>
     <url>/2023/03/24/hello-world/</url>
