@@ -4,11 +4,36 @@
   
   
   <entry>
+    <title>te</title>
+    <link href="/te.html"/>
+    <url>/te.html</url>
+    
+    <content type="html"><![CDATA[<p>哈哈哈</p><p><img src="/te/file-20240728171535598.png"><br><img src="/te/te-20240728171620537.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>测试</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>芜湖</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>haha</title>
     <link href="/haha.html"/>
     <url>/haha.html</url>
     
-    <content type="html"><![CDATA[<p>呜呼<br><img src="/assets/haha.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>呜呼<br><img src="/haha/haha.png" alt="11"></p><p><img src="/haha/image-20240728160843845.png" alt="image-20240728160843845"></p>]]></content>
     
     
     <categories>
